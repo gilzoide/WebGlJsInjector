@@ -1,0 +1,6 @@
+{
+  "name": "com.gilzoide.webgljsinjector",
+  "displayName": "WebGL JS Injector",
+  "version": "1.0.0",
+  "description": "Import JavaScript code as <script> tags in WebGL builds' index.html file"
+}
